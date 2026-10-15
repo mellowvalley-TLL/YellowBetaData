@@ -1,4 +1,4 @@
-0¿20¿20¿Кловер¿15¿D.1.0.0¿
+0¿20¿20¿Кловер¿15¿D.1.0.0¿1¿
 
 Censured
 HP
@@ -6,4 +6,5 @@ MaxHP
 PlayableCharacter
 PlayerAtack
 Ver
+IsGameWorking
 .trash¿~
