@@ -1,4 +1,4 @@
-1¿20¿20¿8¿Кловер¿15¿8¿6¿0.02¿0.02¿1¿Игра была отключена
+1¿20¿20¿8¿Кловер¿15¿8¿6¿0.02¿0.02¿1¿Игра была отключена¿
 
 Censured
 HP
@@ -11,4 +11,4 @@ SpechTextSpeed
 TextSpeed
 TextSpeedOrig
 IsServerWorking
-WhyNotWorking
+WhyNotWorking¿~
